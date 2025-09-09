@@ -1,4 +1,5 @@
 # Image Deraining Algorithm for Scene Text Recognition
+## We will publish our code after publishing the paper. 
 ## Requirements
 ## Train and Test
 ## TextRain Dataset
